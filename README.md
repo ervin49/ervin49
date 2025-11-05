@@ -1,4 +1,4 @@
-## Hi there 👋
+## Informatics & Economics student focused on software development and efficient workflows
 
 <!--
 **ervin49/ervin49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
